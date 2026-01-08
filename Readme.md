@@ -75,12 +75,12 @@ spam-detection/
 
 ## Model Performance
 
-| Metric | Ham | Spam |
-|--------|-----|------|
-| Precision | 0.99 | 0.94 |
-| Recall | 0.99 | 0.91 |
-| F1-score | 0.99 | 0.93 |
-| **Accuracy** | **98%** | - |
+| Metric | Ham     | Spam |
+|--------|---------|------|
+| Precision | 0.99    | 0.97 |
+| Recall | 1.00    | 0.93 |
+| F1-score | 0.99    | 0.95 |
+| **Accuracy** | **99%** | -    |
 
 > Evaluation focuses on precision, recall, and F1-score due to class imbalance.
 

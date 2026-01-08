@@ -4,6 +4,8 @@ An end-to-end spam message detection system built using classical Machine Learni
 
 ## Project Overview
 
+### Live Demo
+- Streamlit App: https://spam-message-detection-ml.streamlit.app/
 Spam messages often rely on:
 
 - **Obfuscated text** (e.g., fr33, m0n3y)

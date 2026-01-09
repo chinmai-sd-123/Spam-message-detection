@@ -30,7 +30,9 @@ The final system is deployed as a **Streamlit web application**.
 - ✓ Hybrid rule-based and ML detection
 - ✓ High precision and recall
 - ✓ Real-time predictions via Streamlit
-- ✓ ## System Architecture
+
+## System Architecture
+
 User Message
    ↓
 Character Normalization
